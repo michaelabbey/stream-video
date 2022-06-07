@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Feb 2022 01:50:15 at http://template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html# -O1 "C:\All My Projects\Steam Video" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:04:18	Warning: 	Retry after error -4 (Incorrect length (196989 Bytes, 343267 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-14.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html)
+02:04:39	Warning: 	Retry after error -4 (Incorrect length (143317 Bytes, 313260 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-61.jpg (from template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html)
+02:04:43	Warning: 	Retry after error -4 (Incorrect length (532892 Bytes, 668609 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-7.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html)
+02:05:07	Warning: 	Retry after error -4 (Incorrect length (403915 Bytes, 484975 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-8.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html)
+02:05:08	Warning: 	Retry after error -4 (Incorrect length (200914 Bytes, 340003 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-4.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html)
+02:05:21	Warning: 	Retry after error -4 (Incorrect length (336108 Bytes, 464398 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-11.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/movies-home.html)
+02:06:15	Warning: 	Retry after error -4 (Incorrect length (1913594 Bytes, 2050462 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-3.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/index.html)
+02:06:15	Warning: 	Retry after error -4 (Incorrect length (273186 Bytes, 395571 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-15.jpeg (from template.gentechtreedesign.com/html/streamlab/red-html/index.html)
+02:06:15	Warning: 	Retry after error -4 (Incorrect length (323083 Bytes, 491621 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-68.jpg (from template.gentechtreedesign.com/html/streamlab/red-html/tv-shows-home.html)
+02:06:16	Warning: 	Retry after error -4 (Incorrect length (276326 Bytes, 404672 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-59.jpg (from template.gentechtreedesign.com/html/streamlab/red-html/tv-shows-home.html)
+02:06:16	Warning: 	Retry after error -4 (Incorrect length (458021 Bytes, 629479 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-38.jpg (from template.gentechtreedesign.com/html/streamlab/red-html/video-home.html)
+02:06:16	Warning: 	Retry after error -4 (Incorrect length (277136 Bytes, 386987 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-39.jpg (from template.gentechtreedesign.com/html/streamlab/red-html/video-home.html)
+02:06:17	Warning: 	Retry after error -4 (Incorrect length (403448 Bytes, 483837 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-49.jpg (from template.gentechtreedesign.com/html/streamlab/red-html/video-load-more.html)
+02:06:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 204814 got 200175): template.gentechtreedesign.com/html/streamlab/red-html/fonts/fa-solid-900.eot
+02:06:21	Warning: 	Retry after error -4 (Incorrect length (200175 Bytes, 204814 expected)) at link template.gentechtreedesign.com/html/streamlab/red-html/fonts/fa-solid-900.eot (from template.gentechtreedesign.com/html/streamlab/red-html/css/all.min.css)
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/fonts/fa-solid-900.eot?
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/fonts/fa-solid-900.eot? to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-3.jpeg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-3.jpeg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-15.jpeg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-15.jpeg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-68.jpg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-68.jpg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-59.jpg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-59.jpg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-38.jpg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-38.jpg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-39.jpg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-39.jpg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-49.jpg
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/images/background/asset-49.jpg to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+02:06:21	Warning: 	Found for template.gentechtreedesign.com/html/streamlab/red-html/fonts/fa-solid-900.eot
+02:06:21	Warning: 	File has moved from template.gentechtreedesign.com/html/streamlab/red-html/fonts/fa-solid-900.eot to http://free.facebook.com/zero_balance_redirect?operator=airtel_ng
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 6 seconds : 164 links scanned, 140 files written (23604314 bytes overall) [24542326 bytes received at 25406 bytes/sec], 3792805 bytes transferred using HTTP compression in 46 files, ratio 14%
+(No errors, 33 warnings, 0 messages)
